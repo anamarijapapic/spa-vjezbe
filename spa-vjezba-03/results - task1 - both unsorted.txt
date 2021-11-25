@@ -1,0 +1,99 @@
+Array size: 10000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 0.269000
+
+Array size: 20000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 1.056000
+
+Array size: 30000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 2.340000
+
+Array size: 40000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 4.142000
+
+Array size: 50000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 6.466000
+
+Array size: 60000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 9.337000
+
+Array size: 70000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 12.728000
+
+Array size: 80000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 16.532000
+
+Array size: 90000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 20.914000
+
+Array size: 100000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 25.863000
+
+Array size: 110000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 31.235000
+
+Array size: 120000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 37.218000
+
+Array size: 130000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 43.681000
+
+Array size: 140000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 51.029000
+
+Array size: 150000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 58.671000
+
+Array size: 160000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 66.883000
+
+Array size: 170000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 75.101000
+
+Array size: 180000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 84.241000
+
+Array size: 190000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 93.908000
+
+Array size: 200000
+
+Intersection of A and B (both unsorted):
+Elapsed time in seconds: 104.233000
